@@ -41,8 +41,8 @@ Software Requirements :
 These are the main goals of this module 
 
 	-  Car details are created and maintained by the Admin.
-
-	- The user will go through the registration process in order to register into the system.
+        
+	-  The user will go through the registration process in order to register into the system.
 
 These are the scripting languages and environment used in this module 
 
@@ -61,7 +61,7 @@ These are the main goals of this module
 
 	- The customer can choose their favourite & comfortable car in the available car listed.
         
-        - The customer can select their car in terms of model, brands and prices.
+	- The customer can select their car in terms of model, brands and prices.
 
 	
 These are the scripting languages and environment used in this module 
@@ -81,10 +81,10 @@ These are the scripting languages and environment used in this module
 These are the main goals of this module
 
 	-  The customer need to select the start and end date.
-
+        
 	-  Based on the Km and Ac requirements chosen, the price will be displayed.
-
-        -  Finally the customers  desired car will be booked.
+	
+	-  Finally the customers  desired car will be booked.
 
 These are the scripting languages and environment used in this module 
 
@@ -103,8 +103,7 @@ These are the scripting languages and environment used in this module
 These are the main goals of this module
 
 	-   The invoice department will generate the bill for the car. 
-
-
+       
         -   After verification the amount will be paid by the customer. 
 
 These are the scripting languages and environment used in this module 

@@ -104,6 +104,7 @@ These are the main goals of this module
 
 	-   The invoice department will generate the bill for the car. 
 
+
         -   After verification the amount will be paid by the customer. 
 
 These are the scripting languages and environment used in this module 

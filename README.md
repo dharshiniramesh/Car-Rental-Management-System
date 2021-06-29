@@ -116,7 +116,7 @@ These are the scripting languages and environment used in this module
 	
 	- MYSQL is the main database.
 
-This application is written in Java.
+This application is written in PHP.
 
 - [PHP]( https://github.com/php)
  
